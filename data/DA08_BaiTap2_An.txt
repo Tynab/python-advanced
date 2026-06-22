@@ -1,0 +1,61 @@
+BÀI 1
+- Ngày 2: Mua
+- Ngày 3: Bán
+- Ngày 4: Giữ nguyên
+- Ngày 5: Giữ nguyên
+- Ngày 6: Mua
+- Ngày 7: Giữ nguyên
+- Ngày 8: Mua
+
+BÀI 2
+- 82: không là số nguyên tố.
+- 15: không là số nguyên tố.
+- 4: không là số nguyên tố.
+- 95: không là số nguyên tố.
+- 36: không là số nguyên tố.
+- 32: không là số nguyên tố.
+- 29: là số nguyên tố.
+
+BÀI 3
+- Nhân viên 1:
+    + Lương cơ bản: 8,662,424.74
+    + Phụ cấp: 6,962,243.23
+    + Bảo hiểm (BH): 909,554.60
+    + Thuế TNCN (PIT): 185,755.67
+    + Lương thực nhận: 14,529,357.70
+- Nhân viên 2:
+    + Lương cơ bản: 18,673,656.03
+    + Phụ cấp: 4,625,322.55
+    + Bảo hiểm (BH): 1,960,733.88
+    + Thuế TNCN (PIT): 800,736.70
+    + Lương thực nhận: 20,537,507.99
+- Nhân viên 3:
+    + Lương cơ bản: 68,806,442.59
+    + Phụ cấp: 7,929,512.72
+    + Bảo hiểm (BH): 4,108,064.43
+    + Thuế TNCN (PIT): 12,638,367.26
+    + Lương thực nhận: 59,989,523.62
+- Nhân viên 4:
+    + Lương cơ bản: 48,052,976.70
+    + Phụ cấp: 4,982,722.30
+    + Bảo hiểm (BH): 3,900,529.77
+    + Thuế TNCN (PIT): 6,283,792.31
+    + Lương thực nhận: 42,851,376.93
+- Nhân viên 5:
+    + Lương cơ bản: 6,819,925.26
+    + Phụ cấp: 4,323,888.39
+    + Bảo hiểm (BH): 716,092.15
+    + Thuế TNCN (PIT): 0.00
+    + Lương thực nhận: 10,427,721.50
+- Nhân viên 6:
+    + Lương cơ bản: 40,375,594.68
+    + Phụ cấp: 8,522,886.33
+    + Bảo hiểm (BH): 3,823,755.95
+    + Thuế TNCN (PIT): 5,268,681.27
+    + Lương thực nhận: 39,806,043.80
+- Nhân viên 7:
+    + Lương cơ bản: 56,963,470.91
+    + Phụ cấp: 7,553,168.38
+    + Bảo hiểm (BH): 3,989,634.71
+    + Thuế TNCN (PIT): 9,131,751.15
+    + Lương thực nhận: 51,395,253.44
